@@ -2,7 +2,8 @@ programa
 {
 	
 	funcao inicio()
-	{    cadeia nome
+	{
+    cadeia nome
           inteiro idade
 		escreva("qual seu nome? ")
 		leia(nome)
